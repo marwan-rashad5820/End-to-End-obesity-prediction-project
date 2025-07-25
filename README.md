@@ -13,7 +13,7 @@ This project predicts obesity levels in individuals based on lifestyle, demograp
 ---
 
 ## 📁 Project Structure
-
+```
 ├── notebooks/
 │ ├── obesity_model.ipynb # Jupyter notebook
 │ └── model.pkl # Trained ML model
@@ -22,7 +22,7 @@ This project predicts obesity levels in individuals based on lifestyle, demograp
 ├── Dockerfile # Docker setup
 ├── compose.yml # Docker Compose file
 └── README.md # Project description
-
+```
 
 ---
 
