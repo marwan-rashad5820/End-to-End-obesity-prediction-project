@@ -1,0 +1,11 @@
+services:
+    sklearn:
+        build: ./
+        container_name: Obesity_container
+        ports:
+            - "8000:8888"
+        volumes:
+            - ./:/home/jovyan
+        environment:
+            - JUPYTER_ENABLE_LAB=yes
+            - JUPYTER_TOKEN=obesity2025
