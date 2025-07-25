@@ -28,7 +28,7 @@ This project predicts obesity levels in individuals based on lifestyle, demograp
 
 ## ⚙️ Technologies Used
 
-- Python, Pandas, NumPy, Scikit-learn
+- Python, Pandas, NumPy, Scikit-learn, matplotlib, seaborn
   
 - Jupyter Notebook
   
