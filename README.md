@@ -29,7 +29,9 @@ This project predicts obesity levels in individuals based on lifestyle, demograp
 ## ⚙️ Technologies Used
 
 - Python, Pandas, NumPy, Scikit-learn
+  
 - Jupyter Notebook
+  
 - Docker & Docker Compose
 
 ---
@@ -54,20 +56,29 @@ docker-compose up
 ---
 
 ### ✅ Model Performance
+
 **Best model:XGBClassifier**
+
 **Accuracy_Score: ~97.6%**
+
 **Classification_report : ~98%**
+
 **Key features: Physical activity, eating habits, screen time**
-![Model Performance](<img width="867" height="537" alt="image" src="https://github.com/user-attachments/assets/c6ac618b-0247-4225-bc21-1a662edbd67a" />)
+
+<img width="867" height="537" alt="image" src="https://github.com/user-attachments/assets/c6ac618b-0247-4225-bc21-1a662edbd67a" />
 
 ---
 
 ### 🌱 Future Enhancements
+
 **Add Streamlit or Flask web interface**
+
 **Deploy with API support**
 
 ---
 
 ### 👤 Author
+
 **Marwan Rashad**
+
 GitHub: @marwan-rashad5820
